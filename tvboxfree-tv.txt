@@ -5,22 +5,14 @@
 
 "lives": [
         {
-            "name": "直播",
-            "type": 0,
-            "url": "https://gitee.com/xuxiake12/tvbox-xuxiake/raw/master/TVlive.txt",
-            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
-        },
-        {
             "group": "redirect",
             "channels": [
                 {
                     "name": "live",
-                    "urls": [
-                        "proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlZS5jb20vY2xvdW1hcC9UVkJveC9yYXcvVEhvbS9UVi9saXZlLnR4dA=="
+                    "urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuaXFpcS5pby9DeXJpbDA1NjMvbGFuamluZ19saXZlL21haW4vVFZib3hfRnJlZS9MSVZFL0ZyZWUvdHZib3hfbGl2ZS50eHQ="
                     ]
                 }
-            ],
-            "epg": "http://epg.51zmt.top:8000/api/diyp/"
+            ]
         }
     ],
 "sites":[
