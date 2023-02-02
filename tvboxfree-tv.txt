@@ -1,8 +1,8 @@
 {
 //Update:2023-01-04 14:22:05.887324
 
-"spider":"http://121.36.203.35:8080/ipfs/QmaoybUpK9dEC7XJqt7hy3CWFeuxCDECPoh1iUA85K6MoR?filename=custom.PNG;md5;112dd3396623b4bebbad3ebd67fb2929",
-
+//"spider":"http://121.36.203.35:8080/ipfs/QmaoybUpK9dEC7XJqt7hy3CWFeuxCDECPoh1iUA85K6MoR?filename=custom.PNG;md5;112dd3396623b4bebbad3ebd67fb2929",
+"spider": "https://agit.ai/cacifer/xyz/raw/branch/master/jar/main.jar;md5;BE998DB821D8D81314856E248A917E8E",
 "lives": [
 {
       "name": "电视直播",
